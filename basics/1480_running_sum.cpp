@@ -1,0 +1,14 @@
+//LeetCode 1480 - Running Sum
+
+class Solution {
+public:
+    vector<int> runningSum(vector<int>& nums) {
+        vector<int> arr;
+        arr.push_back(nums[0]);
+
+        for(int i=1; i<nums.size(); i++){
+            arr.push_back(nums[i]+arr[i-1]);
+        }
+        return arr;
+    }
+};
