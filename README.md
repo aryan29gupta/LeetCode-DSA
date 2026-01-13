@@ -20,6 +20,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 |---|-------------|---------------|-------|-----------------|------------------|
 | 1 | 412 | Fizz Buzz | Basics | O(n) | O(n) |
 | 2 | 1480 | Running Sum of 1D Array | Prefix Sum | O(n) | O(1) |
+| 3 | 1672 | Richest Customer Wealth | Arrays | O(m×n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 
