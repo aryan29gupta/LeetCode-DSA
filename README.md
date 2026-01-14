@@ -21,6 +21,10 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 1 | 412 | Fizz Buzz | Basics | O(n) | O(n) |
 | 2 | 1480 | Running Sum of 1D Array | Prefix Sum | O(n) | O(1) |
 | 3 | 1672 | Richest Customer Wealth | Arrays | O(m×n) | O(1) |
+| 4 | 1920 | Build Array from Permutation | Arrays | O(n) | O(n) |
+| 5 | 2235 | Add Two Integers | Math | O(1) | O(1) |
+| 6 | 1281 | Subtract the Product and Sum of Digits of an Integer | Math | O(d) | O(1) |
+| 7 | 1 | Two Sum | Arrays / Hashing | O(n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 
