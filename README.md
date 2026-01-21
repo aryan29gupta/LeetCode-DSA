@@ -24,7 +24,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 4 | 1920 | Build Array from Permutation | Arrays | O(n) | O(n) |
 | 5 | 2235 | Add Two Integers | Math | O(1) | O(1) |
 | 6 | 1281 | Subtract the Product and Sum of Digits of an Integer | Math | O(d) | O(1) |
-| 7 | 1 | Two Sum | Arrays / Hashing | O(n) | O(n) |
+| 7 | 1 | Two Sum | Arrays | O(n) | O(n) |
 | 8 | 1752 | Check if Array Is Sorted and Rotated | Arrays | O(n) | O(1) |
 | 9 | 217 | Contains Duplicate | Arrays / Hashing | O(n) | O(n) |
 | 10 | 268 | Missing Number | Arrays / Math | O(n) | O(1) |
