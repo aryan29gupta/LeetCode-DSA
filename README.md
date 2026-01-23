@@ -28,6 +28,10 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 8 | 1752 | Check if Array Is Sorted and Rotated | Arrays | O(n) | O(1) |
 | 9 | 217 | Contains Duplicate | Arrays / Hashing | O(n) | O(n) |
 | 10 | 268 | Missing Number | Arrays / Math | O(n) | O(1) |
+| 11 | 26 | Remove Duplicates from Sorted Array | Arrays / Two Pointers | O(n) | O(1) |
+| 12 | 136 | Single Number | Arrays / Bit Manipulation | O(n) | O(1) |
+| 13 | 189 | Rotate Array | Arrays | O(n) | O(1) |
+| 14 | 283 | Move Zeroes | Arrays / Two Pointers | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 
