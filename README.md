@@ -34,6 +34,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 14 | 283 | Move Zeroes | Arrays / Two Pointers | O(n) | O(1) |
 | 15 | 75 | Sort Colors | Arrays / Two Pointers (Dutch National Flag) | O(n) | O(1) |
 | 16 | 169 | Majority Element | Arrays / Moore's Voting | O(n) | O(1) |
+| 17 | 53 | Maximum Subarray | Arrays / Kadane’s Algorithm | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 
