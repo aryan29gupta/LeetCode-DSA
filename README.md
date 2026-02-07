@@ -35,9 +35,11 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 15 | 75 | Sort Colors | Arrays / Two Pointers (Dutch National Flag) | O(n) | O(1) |
 | 16 | 169 | Majority Element | Arrays / Moore's Voting | O(n) | O(1) |
 | 17 | 53 | Maximum Subarray | Arrays / Kadane’s Algorithm | O(n) | O(1) |
+| 18 | 121 | Best Time to Buy and Sell Stock | Arrays / Greedy | O(n) | O(1) |
+| 19 | 2149 | Rearrange Array Elements by Sign | Arrays / Two Pointers | O(n) | O(n) |
+| 20 | 31 | Next Permutation | Arrays | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
-
 ---
 
 ## 🧠 Coding Guidelines Followed
