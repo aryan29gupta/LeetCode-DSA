@@ -38,6 +38,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 18 | 121 | Best Time to Buy and Sell Stock | Arrays / Greedy | O(n) | O(1) |
 | 19 | 2149 | Rearrange Array Elements by Sign | Arrays / Two Pointers | O(n) | O(n) |
 | 20 | 31 | Next Permutation | Arrays | O(n) | O(1) |
+| 21 | 128 | Longest Consecutive Sequence | Arrays / Hashing | O(n) | O(n) |
+| 22 | 48 | Rotate Image | Arrays / Matrix | O(n²) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
