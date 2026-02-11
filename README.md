@@ -40,6 +40,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 20 | 31 | Next Permutation | Arrays | O(n) | O(1) |
 | 21 | 128 | Longest Consecutive Sequence | Arrays / Hashing | O(n) | O(n) |
 | 22 | 48 | Rotate Image | Arrays / Matrix | O(n²) | O(1) |
+| 23 | 66 | Plus One | Arrays / Math | O(n) | O(1) |
+| 24 | 977 | Squares of a Sorted Array | Arrays / Two Pointers | O(n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
