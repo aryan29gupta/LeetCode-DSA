@@ -42,6 +42,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 22 | 48 | Rotate Image | Arrays / Matrix | O(n²) | O(1) |
 | 23 | 66 | Plus One | Arrays / Math | O(n) | O(1) |
 | 24 | 977 | Squares of a Sorted Array | Arrays / Two Pointers | O(n) | O(n) |
+| 25 | 560 | Subarray Sum Equals K | Arrays / Prefix Sum / Hashing | O(n) | O(n) |
+| 26 | 54 | Spiral Matrix | Arrays / Matrix | O(m×n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
