@@ -45,6 +45,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 25 | 560 | Subarray Sum Equals K | Arrays / Prefix Sum / Hashing | O(n) | O(n) |
 | 26 | 54 | Spiral Matrix | Arrays / Matrix | O(m×n) | O(1) |
 | 27 | 27 | Remove Element | Arrays / Two Pointers | O(n) | O(1) |
+| 28 | 118 | Pascal's Triangle | Arrays / Math | O(n²) | O(n²) |
+| 29 | 229 | Majority Element II | Arrays / Boyer–Moore Voting | O(2n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
