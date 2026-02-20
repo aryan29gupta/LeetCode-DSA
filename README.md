@@ -48,6 +48,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 28 | 118 | Pascal's Triangle | Arrays / Math | O(n²) | O(n²) |
 | 29 | 229 | Majority Element II | Arrays / Boyer–Moore Voting | O(2n) | O(1) |
 | 30 | 15 | 3Sum | Arrays / Two Pointers | O(n²) | O(1) |
+| 31 | 18 | 4Sum | Arrays / Two Pointers | O(n³) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
