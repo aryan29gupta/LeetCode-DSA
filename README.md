@@ -49,6 +49,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 29 | 229 | Majority Element II | Arrays / Boyer–Moore Voting | O(2n) | O(1) |
 | 30 | 15 | 3Sum | Arrays / Two Pointers | O(n²) | O(1) |
 | 31 | 18 | 4Sum | Arrays / Two Pointers | O(n³) | O(1) |
+| 32 | 9 | Palindrome Number | Math | O(log₁₀n) | O(1) |
+| 33 | 20 | Valid Parentheses | Stack | O(n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
