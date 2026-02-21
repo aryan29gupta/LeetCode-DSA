@@ -51,6 +51,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 31 | 18 | 4Sum | Arrays / Two Pointers | O(n³) | O(1) |
 | 32 | 9 | Palindrome Number | Math | O(n) | O(1) |
 | 33 | 20 | Valid Parentheses | Stack | O(n) | O(n) |
+| 34 | 28 | Find Index of First Occurrence in a String | Strings / Two Pointers | O(n×m) | O(1) |
+| 35 | 56 | Merge Intervals | Arrays / Sorting | O(n log n) | O(n) |
+| 36 | 88 | Merge Sorted Array | Arrays / Two Pointers | O(n + m) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
