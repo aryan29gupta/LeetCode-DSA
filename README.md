@@ -54,6 +54,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 34 | 28 | Find Index of First Occurrence in a String | Strings / Two Pointers | O(n×m) | O(1) |
 | 35 | 56 | Merge Intervals | Arrays / Sorting | O(n log n) | O(n) |
 | 36 | 88 | Merge Sorted Array | Arrays / Two Pointers | O(n + m) | O(1) |
+| 37 | 152 | Maximum Product Subarray | Arrays / Dynamic Programming | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
