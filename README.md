@@ -55,6 +55,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 35 | 56 | Merge Intervals | Arrays / Sorting | O(n log n) | O(n) |
 | 36 | 88 | Merge Sorted Array | Arrays / Two Pointers | O(n + m) | O(1) |
 | 37 | 152 | Maximum Product Subarray | Arrays / Dynamic Programming | O(n) | O(1) |
+| 38 | 493 | Reverse Pairs | Arrays / Divide and Conquer (Merge Sort) | O(2n log n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
