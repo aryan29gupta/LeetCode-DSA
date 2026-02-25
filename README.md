@@ -56,6 +56,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 36 | 88 | Merge Sorted Array | Arrays / Two Pointers | O(n + m) | O(1) |
 | 37 | 152 | Maximum Product Subarray | Arrays / Dynamic Programming | O(n) | O(1) |
 | 38 | 493 | Reverse Pairs | Arrays / Divide and Conquer (Merge Sort) | O(2n log n) | O(n) |
+| 39 | 896 | Monotonic Array | Arrays | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
