@@ -57,6 +57,11 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 37 | 152 | Maximum Product Subarray | Arrays / Dynamic Programming | O(n) | O(1) |
 | 38 | 493 | Reverse Pairs | Arrays / Divide and Conquer (Merge Sort) | O(2n log n) | O(n) |
 | 39 | 896 | Monotonic Array | Arrays | O(n) | O(1) |
+| 40 | 704 | Binary Search | Arrays / Binary Search | O(log n) | O(1) |
+| 41 | 35 | Search Insert Position | Arrays / Binary Search | O(log n) | O(1) |
+| 42 | 58 | Length of Last Word | Strings | O(n) | O(1) |
+| 43 | 1470 | Shuffle the Array | Arrays | O(n) | O(n) |
+| 44 | 70 | Climbing Stairs | Dynamic Programming | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
