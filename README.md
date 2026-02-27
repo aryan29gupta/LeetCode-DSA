@@ -62,6 +62,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 42 | 58 | Length of Last Word | Strings | O(n) | O(1) |
 | 43 | 1470 | Shuffle the Array | Arrays | O(n) | O(n) |
 | 44 | 70 | Climbing Stairs | Dynamic Programming | O(n) | O(1) |
+| 45 | 34 | Find First and Last Position of Element in Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
+| 46 | 33 | Search in Rotated Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
