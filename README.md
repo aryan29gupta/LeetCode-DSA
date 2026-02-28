@@ -64,6 +64,12 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 44 | 70 | Climbing Stairs | Dynamic Programming | O(n) | O(1) |
 | 45 | 34 | Find First and Last Position of Element in Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
 | 46 | 33 | Search in Rotated Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
+| 47 | 932 | Beautiful Array | Divide and Conquer | O(n) | O(n) |
+| 48 | 344 | Reverse String | Strings / Two Pointers | O(n) | O(1) |
+| 49 | 81 | Search in Rotated Sorted Array II | Arrays / Binary Search | O(log n) (avg) | O(1) |
+| 50 | 153 | Find Minimum in Rotated Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
+| 51 | 540 | Single Element in a Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
+| 52 | 162 | Find Peak Element | Arrays / Binary Search | O(log n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
