@@ -70,6 +70,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 50 | 153 | Find Minimum in Rotated Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
 | 51 | 540 | Single Element in a Sorted Array | Arrays / Binary Search | O(log n) | O(1) |
 | 52 | 162 | Find Peak Element | Arrays / Binary Search | O(log n) | O(1) |
+| 53 | 875 | Koko Eating Bananas | Binary Search (Answer Space) | O(n log m) | O(1) |
+| 54 | 1482 | Minimum Number of Days to Make m Bouquets | Binary Search (Answer Space) | O(n log m) | O(1) |
+| 55 | 1283 | Find the Smallest Divisor Given a Threshold | Binary Search (Answer Space) | O(n log m) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
