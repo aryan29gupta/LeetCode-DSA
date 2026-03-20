@@ -73,6 +73,11 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 53 | 875 | Koko Eating Bananas | Binary Search (Answer Space) | O(n log m) | O(1) |
 | 54 | 1482 | Minimum Number of Days to Make m Bouquets | Binary Search (Answer Space) | O(n log m) | O(1) |
 | 55 | 1283 | Find the Smallest Divisor Given a Threshold | Binary Search (Answer Space) | O(n log m) | O(1) |
+| 56 | 1539 | Kth Missing Positive Number | Arrays / Binary Search | O(log n) | O(1) |
+| 57 | 1021 | Remove Outermost Parentheses | Strings / Stack | O(n) | O(n) |
+| 58 | 151 | Reverse Words in a String | Strings / Two Pointers | O(n) | O(1) |
+| 59 | 1903 | Largest Odd Number in String | Strings | O(n) | O(1) |
+| 60 | 1011 | Capacity To Ship Packages Within D Days | Binary Search (Answer Space) | O(n log m) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
