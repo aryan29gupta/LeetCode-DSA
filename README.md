@@ -78,6 +78,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 58 | 151 | Reverse Words in a String | Strings / Two Pointers | O(n) | O(1) |
 | 59 | 1903 | Largest Odd Number in String | Strings | O(n) | O(1) |
 | 60 | 1011 | Capacity To Ship Packages Within D Days | Binary Search (Answer Space) | O(n log m) | O(1) |
+| 61 | 410 | Split Array Largest Sum | Binary Search (Answer Space) | O(n log m) | O(1) |
+| 62 | 14 | Longest Common Prefix | Strings | O(n × m) | O(1) |
+| 63 | 205 | Isomorphic Strings | Strings / Hashing | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
