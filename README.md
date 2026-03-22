@@ -82,6 +82,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 62 | 14 | Longest Common Prefix | Strings | O(n × m) | O(1) |
 | 63 | 205 | Isomorphic Strings | Strings / Hashing | O(n) | O(1) |
 
+
 > ✅ Table will be updated regularly as I solve more problems.
 ---
 
