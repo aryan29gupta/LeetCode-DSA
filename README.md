@@ -81,7 +81,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 61 | 410 | Split Array Largest Sum | Binary Search (Answer Space) | O(n log m) | O(1) |
 | 62 | 14 | Longest Common Prefix | Strings | O(n × m) | O(1) |
 | 63 | 205 | Isomorphic Strings | Strings / Hashing | O(n) | O(1) |
-
+| 64 | 796 | Rotate String | Strings | O(n) | O(1) |
+| 65 | 242 | Valid Anagram | Strings / Hashing | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
