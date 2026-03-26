@@ -83,6 +83,10 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 63 | 205 | Isomorphic Strings | Strings / Hashing | O(n) | O(1) |
 | 64 | 796 | Rotate String | Strings | O(n) | O(1) |
 | 65 | 242 | Valid Anagram | Strings / Hashing | O(n) | O(1) |
+| 66 | 451 | Sort Characters By Frequency | Strings / Hashing | O(n log n) | O(n) |
+| 67 | 1614 | Maximum Nesting Depth of the Parentheses | Strings / Stack | O(n) | O(1) |
+| 68 | 13 | Roman to Integer | Strings | O(n) | O(1) |
+| 69 | 1528 | Shuffle String | Strings | O(n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
