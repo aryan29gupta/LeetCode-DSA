@@ -87,6 +87,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 67 | 1614 | Maximum Nesting Depth of the Parentheses | Strings / Stack | O(n) | O(1) |
 | 68 | 13 | Roman to Integer | Strings | O(n) | O(1) |
 | 69 | 1528 | Shuffle String | Strings | O(n) | O(n) |
+| 70 | 541 | Reverse String II | Strings / Two Pointers | O(n) | O(1) |
+| 71 | 74 | Search a 2D Matrix | Binary Search / Matrix | O(log(m×n)) | O(1) |
+| 72 | 240 | Search a 2D Matrix II | Matrix / Binary Search | O(m + n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
