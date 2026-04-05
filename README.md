@@ -90,6 +90,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 70 | 541 | Reverse String II | Strings / Two Pointers | O(n) | O(1) |
 | 71 | 74 | Search a 2D Matrix | Binary Search / Matrix | O(log(m×n)) | O(1) |
 | 72 | 240 | Search a 2D Matrix II | Matrix / Binary Search | O(m + n) | O(1) |
+| 73 | 4 | Median of Two Sorted Arrays | Binary Search | O(log(min(m,n))) | O(1) |
+| 74 | 1901 | Find a Peak Element II | Binary Search / Matrix | O(m log n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
