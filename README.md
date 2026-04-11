@@ -97,6 +97,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 77 | 237 | Delete Node in a Linked List | Linked List | O(1) | O(1) |
 | 78 | 141 | Linked List Cycle | Linked List / Two Pointers | O(n) | O(1) |
 | 79 | 876 | Middle of the Linked List | Linked List / Two Pointers | O(n) | O(1) |
+| 80 | 206 | Reverse Linked List | Linked List | O(n) | O(1) |
+| 81 | 142 | Linked List Cycle II | Linked List / Two Pointers | O(n) | O(1) |
+| 82 | 234 | Palindrome Linked List | Linked List / Two Pointers | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
