@@ -104,6 +104,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 84 | 19 | Remove Nth Node From End of List | Linked List / Two Pointers | O(n) | O(1) |
 | 85 | 2095 | Delete the Middle Node of a Linked List | Linked List / Two Pointers | O(n) | O(1) |
 | 86 | 148 | Sort List | Linked List / Merge Sort | O((n+n/2) log n) | O(1) |
+| 87 | 160 | Intersection of Two Linked Lists | Linked List / Two Pointers | O(n + m) | O(1) |
+| 88 | 2 | Add Two Numbers | Linked List | O(max(n,m)) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
