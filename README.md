@@ -106,6 +106,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 86 | 148 | Sort List | Linked List / Merge Sort | O((n+n/2) log n) | O(1) |
 | 87 | 160 | Intersection of Two Linked Lists | Linked List / Two Pointers | O(n + m) | O(1) |
 | 88 | 2 | Add Two Numbers | Linked List | O(max(n,m)) | O(1) |
+| 89 | 61 | Rotate List | Linked List | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
