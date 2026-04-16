@@ -108,6 +108,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 88 | 2 | Add Two Numbers | Linked List | O(max(n,m)) | O(1) |
 | 89 | 61 | Rotate List | Linked List | O(n) | O(1) |
 | 90 | 203 | Remove Linked List Elements | Linked List | O(n) | O(1) |
+| 91 | 83 | Remove Duplicates from Sorted List | Linked List | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
@@ -148,7 +149,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 ## 📅 Progress
 - Started: January 2026
 - Current Focus: Basics & Prefix Sum
-- Problems Solved: 30+
+- Problems Solved: 90+
 
 ---
 
