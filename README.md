@@ -110,6 +110,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 90 | 203 | Remove Linked List Elements | Linked List | O(n) | O(1) |
 | 91 | 83 | Remove Duplicates from Sorted List | Linked List | O(n) | O(1) |
 | 92 | 25 | Reverse Nodes in k-Group | Linked List | O(2n) | O(1) |
+| 93 | 21 | Merge Two Sorted Lists | Linked List | O(n + m) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
