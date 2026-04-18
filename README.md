@@ -111,6 +111,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 91 | 83 | Remove Duplicates from Sorted List | Linked List | O(n) | O(1) |
 | 92 | 25 | Reverse Nodes in k-Group | Linked List | O(2n) | O(1) |
 | 93 | 21 | Merge Two Sorted Lists | Linked List | O(n + m) | O(1) |
+| 94 | 138 | Copy List with Random Pointer | Linked List / Hashing | O(n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
