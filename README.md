@@ -116,6 +116,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 96 | 1232 | Check If It Is a Straight Line | Math / Geometry | O(n) | O(1) |
 | 97 | 92 | Reverse Linked List II | Linked List | O(n) | O(1) |
 | 98 | 82 | Remove Duplicates from Sorted List II | Linked List | O(n) | O(1) |
+| 99 | 50 | Pow(x, n) | Math / Binary Exponentiation | O(log n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
