@@ -112,6 +112,10 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 92 | 25 | Reverse Nodes in k-Group | Linked List | O(2n) | O(1) |
 | 93 | 21 | Merge Two Sorted Lists | Linked List | O(n + m) | O(1) |
 | 94 | 138 | Copy List with Random Pointer | Linked List / Hashing | O(n) | O(n) |
+| 95 | 599 | Minimum Index Sum of Two Lists | Arrays / Hashing | O(n + m) | O(n) |
+| 96 | 1232 | Check If It Is a Straight Line | Math / Geometry | O(n) | O(1) |
+| 97 | 92 | Reverse Linked List II | Linked List | O(n) | O(1) |
+| 98 | 82 | Remove Duplicates from Sorted List II | Linked List | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
