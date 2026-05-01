@@ -121,6 +121,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 101 | 1572 | Matrix Diagonal Sum | Arrays / Matrix | O(m×n) | O(1) |
 | 102 | 766 | Toeplitz Matrix | Arrays / Matrix | O(m×n) | O(1) |
 | 103 | 125 | Valid Palindrome | Strings / Two Pointers | O(n) | O(1) |
+| 104 | 278 | First Bad Version | Binary Search | O(log n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
