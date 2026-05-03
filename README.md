@@ -122,6 +122,8 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 102 | 766 | Toeplitz Matrix | Arrays / Matrix | O(m×n) | O(1) |
 | 103 | 125 | Valid Palindrome | Strings / Two Pointers | O(n) | O(1) |
 | 104 | 278 | First Bad Version | Binary Search | O(log n) | O(1) |
+| 105 | 69 | Sqrt(x) | Binary Search | O(log n) | O(1) |
+| 106 | 3 | Longest Substring Without Repeating Characters | Strings / Sliding Window | O(n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
