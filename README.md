@@ -124,6 +124,10 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 104 | 278 | First Bad Version | Binary Search | O(log n) | O(1) |
 | 105 | 69 | Sqrt(x) | Binary Search | O(log n) | O(1) |
 | 106 | 3 | Longest Substring Without Repeating Characters | Strings / Sliding Window | O(n) | O(n) |
+| 107 | 67 | Add Binary | Strings / Bit Manipulation | O(n) | O(n) |
+| 108 | 1922 | Count Good Numbers | Math / Binary Exponentiation | O(log n) | O(1) |
+| 109 | 509 | Fibonacci Number | Dynamic Programming | O(n) | O(1) |
+| 110 | 1137 | N-th Tribonacci Number | Dynamic Programming | O(n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
