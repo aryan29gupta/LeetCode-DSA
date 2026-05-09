@@ -129,6 +129,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 109 | 509 | Fibonacci Number | Dynamic Programming | O(n) | O(1) |
 | 110 | 1137 | N-th Tribonacci Number | Dynamic Programming | O(n) | O(1) |
 | 111 | 492 | Construct the Rectangle | Math | O(√n) | O(1) |
+| 112 | 566 | Reshape the Matrix | Arrays / Matrix | O(m×n) | O(m×n) |
+| 113 | 231 | Power of Two | Recursion / Math | O(log n) | O(log n) |
+| 114 | 342 | Power of Four | Recursion / Math | O(log n) | O(log n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
