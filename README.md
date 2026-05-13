@@ -177,7 +177,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 ## 📅 Progress
 - Started: January 2026
 - Current Focus: Basics & Prefix Sum
-- Problems Solved: 90+
+- Problems Solved: 120+
 
 ---
 
