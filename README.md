@@ -132,6 +132,11 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 112 | 566 | Reshape the Matrix | Arrays / Matrix | O(m×n) | O(m×n) |
 | 113 | 231 | Power of Two | Recursion / Math | O(log n) | O(log n) |
 | 114 | 342 | Power of Four | Recursion / Math | O(log n) | O(log n) |
+| 115 | 24 | Swap Nodes in Pairs | Linked List / Recursion | O(n) | O(n) |
+| 116 | 78 | Subsets | Recursion / Backtracking | O(2ⁿ) | O(2ⁿ) |
+| 117 | 90 | Subsets II | Recursion / Backtracking | O(2ⁿ) | O(2ⁿ) |
+| 118 | 46 | Permutations | Recursion / Backtracking | O(n × n!) | O(n) |
+| 119 | 22 | Generate Parentheses | Recursion / Backtracking | O(4ⁿ / √n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
