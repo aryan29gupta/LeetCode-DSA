@@ -137,6 +137,9 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 117 | 90 | Subsets II | Recursion / Backtracking | O(2ⁿ) | O(2ⁿ) |
 | 118 | 46 | Permutations | Recursion / Backtracking | O(n × n!) | O(n) |
 | 119 | 22 | Generate Parentheses | Recursion / Backtracking | O(4ⁿ / √n) | O(n) |
+| 120 | 39 | Combination Sum | Recursion / Backtracking | O(2ⁿ) | O(k) |
+| 121 | 40 | Combination Sum II | Recursion / Backtracking | O(2ⁿ) | O(k) |
+| 122 | 29 | Divide Two Integers | Math / Bit Manipulation | O(log² n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
