@@ -142,6 +142,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 122 | 29 | Divide Two Integers | Math / Bit Manipulation | O(log² n) | O(1) |
 | 123 | 2220 | Minimum Bit Flips to Convert Number | Bit Manipulation | O(log n) | O(1) |
 | 124 | 204 | Count Primes | Math / Sieve of Eratosthenes | O(n log log n) | O(n) |
+| 125 | 17 | Letter Combinations of a Phone Number | Recursion / Backtracking | O(4ⁿ × n) | O(n) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
