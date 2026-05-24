@@ -146,6 +146,7 @@ All solutions are written with a focus on **clear logic, clean code, and strong 
 | 126 | 191 | Number of 1 Bits | Bit Manipulation | O(log n) | O(1) |
 | 127 | 190 | Reverse Bits | Bit Manipulation | O(log n) | O(1) |
 | 128 | 693 | Binary Number with Alternating Bits | Bit Manipulation | O(log n) | O(1) |
+| 129 | 1009 | Complement of Base 10 Integer | Bit Manipulation | O(log n) | O(1) |
 
 > ✅ Table will be updated regularly as I solve more problems.
 ---
